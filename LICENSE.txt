@@ -1,0 +1,32 @@
+Cozy Client License
+
+Copyright (c) 2026 ItzAaronUwU. All rights reserved.
+
+Cozy Client, the Cozy Launcher and the Cozy Client Installer (together, "the Software")
+are free to download and use for personal, non-commercial play.
+
+You may NOT, without written permission from the copyright holder:
+
+  1. Redistribute, re-upload, sell, rent or sublicense the Software or any part of it.
+     Point people to the official download instead.
+  2. Modify, decompile, disassemble, deobfuscate or otherwise reverse engineer the
+     Software, except where applicable law expressly allows it despite this restriction.
+  3. Reuse any part of the Software, including its code, art (the axolotl, logos, cape and
+     menus) or name, in another project.
+  4. Remove or change this license or any copyright notice included with the Software.
+
+The Software is not an official Minecraft product and is not approved by or associated
+with Mojang or Microsoft. Minecraft is a trademark of Mojang AB. You need your own legitimate
+copy of Minecraft to play, and you must follow the Minecraft EULA and the rules of any
+server you join.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE
+SOFTWARE, INCLUDING ANY ACTION TAKEN AGAINST YOUR ACCOUNT BY A SERVER OR SERVICE.
+
+Third-party components keep their own licenses: the launcher includes skinview3d (MIT
+License) and Electron (MIT License). The installers download Fabric Loader (Apache 2.0),
+Sodium (PolyForm Shield 1.0.0) and Iris (LGPL 3.0) from their official sources.
