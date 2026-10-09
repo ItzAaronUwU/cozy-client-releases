@@ -4,12 +4,7 @@ A cozy, axolotl-themed client for **Minecraft 26.2**: underwater menus, a custom
 
 ## Download
 
-Grab the latest files from **[Releases](https://github.com/ItzAaronUwU/cozy-client-releases/releases/latest)**:
-
-| File | Use it if |
-|---|---|
-| `CozyLauncher-Setup-x.y.z.exe` | You want the Cozy Launcher. It keeps Cozy Client up to date automatically. |
-| `CozyClient-Installer.exe` | You'd rather use the official Minecraft Launcher. Run it, then pick "Cozy Client" next to Play. |
+Download `CozyLauncher-Setup-x.y.z.exe` from the **[latest release](https://github.com/ItzAaronUwU/cozy-client-releases/releases/latest)** and run it. The Cozy Launcher installs Minecraft 26.2 with Cozy Client, and keeps Cozy Client up to date automatically.
 
 Windows may show "Windows protected your PC" because the files aren't code-signed: click **More info**, then **Run anyway**.
 
