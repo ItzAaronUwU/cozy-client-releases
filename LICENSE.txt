@@ -2,8 +2,8 @@ Cozy Client License
 
 Copyright (c) 2026 ItzAaronUwU. All rights reserved.
 
-Cozy Client, the Cozy Launcher and the Cozy Client Installer (together, "the Software")
-are free to download and use for personal, non-commercial play.
+Cozy Client and the Cozy Launcher (together, "the Software") are free to download and use
+for personal, non-commercial play.
 
 You may NOT, without written permission from the copyright holder:
 
@@ -28,5 +28,6 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS 
 SOFTWARE, INCLUDING ANY ACTION TAKEN AGAINST YOUR ACCOUNT BY A SERVER OR SERVICE.
 
 Third-party components keep their own licenses: the launcher includes skinview3d (MIT
-License) and Electron (MIT License). The installers download Fabric Loader (Apache 2.0),
-Sodium (PolyForm Shield 1.0.0) and Iris (LGPL 3.0) from their official sources.
+License) and Electron (MIT License). When Shaders is turned on, the launcher downloads
+Fabric Loader (Apache 2.0), Sodium (PolyForm Shield 1.0.0) and Iris (LGPL 3.0) from their
+official sources.
